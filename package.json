@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Colt/webpack-demo-app/issues"
+    "url": "https://github.com/bs03-faimrs/demo/issues"
   },
-  "homepage": "https://github.com/Colt/webpack-demo-app#readme",
+  "homepage": "https://github.com/bs03-faimrs/demo#readme",
   "dependencies": {
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
